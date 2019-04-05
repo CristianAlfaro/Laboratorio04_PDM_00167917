@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pelidex</string>
+    <string name="rate_ex_string">0.0</string>
+    <string name="movie_title_string">0.0</string>
+    <string name="lorem_30_string">lorem ipsum</string>
+    <string name="runtime_ex_string">lorem ipsum</string>
+    <string name="movie_name_string">Lorem ipsum</string>
+</resources>
